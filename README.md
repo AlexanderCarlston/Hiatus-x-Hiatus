@@ -9,4 +9,4 @@ I use a Go API for the backend: https://github.com/AlexanderCarlston/go-api
 ## Planning: 
 Planning is extremely important, so I'm going to start out wireframing before I start writing code. Since this
 is going to be only one page there won't be much, but it's still good to do.
-
+![Home Page](https://imgur.com/0xCHwoa.png)
